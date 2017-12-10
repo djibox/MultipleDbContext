@@ -1,0 +1,14 @@
+C:\Users\MacBook\source\repos\ConsoleAppMultipleDbContext\ConsoleAppMultipleDbContext\bin\Debug\ConsoleAppMultipleDbContext.exe.config
+C:\Users\MacBook\source\repos\ConsoleAppMultipleDbContext\ConsoleAppMultipleDbContext\bin\Debug\ConsoleAppMultipleDbContext.exe
+C:\Users\MacBook\source\repos\ConsoleAppMultipleDbContext\ConsoleAppMultipleDbContext\bin\Debug\ConsoleAppMultipleDbContext.pdb
+C:\Users\MacBook\source\repos\ConsoleAppMultipleDbContext\ConsoleAppMultipleDbContext\bin\Debug\EntityFramework.dll
+C:\Users\MacBook\source\repos\ConsoleAppMultipleDbContext\ConsoleAppMultipleDbContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MacBook\source\repos\ConsoleAppMultipleDbContext\ConsoleAppMultipleDbContext\bin\Debug\EntityFramework.xml
+C:\Users\MacBook\source\repos\ConsoleAppMultipleDbContext\ConsoleAppMultipleDbContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MacBook\source\repos\ConsoleAppMultipleDbContext\ConsoleAppMultipleDbContext\obj\Debug\ConsoleAppMultipleDbContext.csprojResolveAssemblyReference.cache
+C:\Users\MacBook\source\repos\ConsoleAppMultipleDbContext\ConsoleAppMultipleDbContext\obj\Debug\ConsoleAppMultipleDbContext.csproj.CoreCompileInputs.cache
+C:\Users\MacBook\source\repos\ConsoleAppMultipleDbContext\ConsoleAppMultipleDbContext\obj\Debug\ConsoleAppMultipleDbContext.exe
+C:\Users\MacBook\source\repos\ConsoleAppMultipleDbContext\ConsoleAppMultipleDbContext\obj\Debug\ConsoleAppMultipleDbContext.pdb
+C:\Users\MacBook\source\repos\ConsoleAppMultipleDbContext\ConsoleAppMultipleDbContext\obj\Debug\ConsoleAppMultipleDbContext.Dal1.Migration1.Config1.resources
+C:\Users\MacBook\source\repos\ConsoleAppMultipleDbContext\ConsoleAppMultipleDbContext\obj\Debug\ConsoleAppMultipleDbContext.csproj.GenerateResource.Cache
+C:\Users\MacBook\source\repos\ConsoleAppMultipleDbContext\ConsoleAppMultipleDbContext\obj\Debug\ConsoleAppMultipleDbContext.Dal2.Migration2.Config2.resources
