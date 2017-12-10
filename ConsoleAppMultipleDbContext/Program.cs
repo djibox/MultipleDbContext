@@ -39,18 +39,18 @@ namespace ConsoleAppMultipleDbContext
 
             using (ApplicationDbContext001 db = new ApplicationDbContext001())
             {
-                foreach (var VARIABLE in db.Employees)
+                foreach (var variable in db.Employees)
                 {
-                    Console.WriteLine($"FullName : {VARIABLE.FullName} and Address : {VARIABLE.Address}");
+                    Console.WriteLine($"FullName : {variable.FullName} and Address : {variable.Address}");
                 }
 
             }
 
             using (ApplicationDbContext002 db = new ApplicationDbContext002())
             {
-                foreach (var VARIABLE in db.Matieres)
+                foreach (var variable in db.Matieres)
                 {
-                    Console.WriteLine($"FullName : {VARIABLE.Name}");
+                    Console.WriteLine($"FullName : {variable.Name}");
                 }
 
             }
